@@ -1,0 +1,2 @@
+# GitPrac
+Practice for school
